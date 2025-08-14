@@ -497,3 +497,9 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"\u001b[34m\u001b[1m\u001b[3mAttempting to connect to MongoDB at cluster0.e7kgaui.mongodb.net\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-13T15:17:41.504Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m\u001b[1m\u001b[3mSuccessfully connected to MongoDB! Database: Lawyer\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-13T15:17:42.666Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m\u001b[1m\u001b[3mServer started on port 5000\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-13T15:17:42.672Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[34m\u001b[1m\u001b[3mAttempting to connect to MongoDB at cluster0.e7kgaui.mongodb.net\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-13T15:29:15.684Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m\u001b[1m\u001b[3mSuccessfully connected to MongoDB! Database: Lawyer\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-13T15:29:16.365Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m\u001b[1m\u001b[3mServer started on port 5000\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-13T15:29:16.368Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[34m\u001b[1m\u001b[3mAttempting to connect to MongoDB at cluster0.e7kgaui.mongodb.net\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-14T07:06:35.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m\u001b[1m\u001b[3mSuccessfully connected to MongoDB! Database: Lawyer\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-14T07:06:36.659Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m\u001b[1m\u001b[3mServer started on port 5000\u001b[23m\u001b[22m\u001b[39m","timestamp":"2025-08-14T07:06:36.669Z"}
